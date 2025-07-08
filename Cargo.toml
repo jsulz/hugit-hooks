@@ -7,3 +7,5 @@ edition = "2024"
 clap = { version = "4.5.40", features = ["derive"] }
 directories = "6.0.0"
 toml = "0.8.23"
+anyhow = "1.0.0"
+serde = { version = "1.0.210", features = ["derive"] }
